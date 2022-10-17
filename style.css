@@ -102,3 +102,14 @@ body {
       background-position: right bottom;
       background-size: 300px;
     }
+    #text{
+        text-align: center;
+    }
+    .footer-area{
+        text-align: center;
+        background-color: black;
+        color: #ffff;
+        height: 100px;
+        padding: 30px;
+
+    }
