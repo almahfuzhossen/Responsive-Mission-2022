@@ -86,3 +86,9 @@ body {
   #service3:hover{
       background-color: rgb(64, 83, 141);
   }
+  .dev-bg{
+      background-image: url(images/shapes/shape-1.png);
+      background-repeat: no-repeat;
+      background-position: left;
+      background-size: 200px;
+  }
