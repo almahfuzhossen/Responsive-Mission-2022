@@ -1,0 +1,20 @@
+.content-text{
+    color: yellowgreen;
+}
+body {
+    font-family: "Poppins", sans-serif;
+  }
+  .link-hero-btn{
+      background-color: rgb(56, 156, 58);
+      padding: 10px 40px;
+      text-decoration: none;
+      border-radius: 5px;
+      color: #ffff;
+      font-weight: 300;
+  }
+  h1{
+      font-size: 50px;
+      border-left: 3px solid;
+      border-image-slice: 1;
+      border-color: rgb(105, 152, 33);
+  }
