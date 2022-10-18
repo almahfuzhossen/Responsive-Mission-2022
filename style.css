@@ -12,9 +12,36 @@ body {
       color: #ffff;
       font-weight: 300;
   }
+    .link-hero-btn:hover {
+        background-color: greenyellow;
+        padding: 10px 40px;
+        text-decoration: none;
+        border-radius: 5px;
+        color: #ffff;
+        font-weight: 300;
+    }
+ 
+  .top-container img {
+    width: 70%;
+  }
+
   h1{
       font-size: 50px;
       border-left: 3px solid;
       border-image-slice: 1;
       border-color: rgb(105, 152, 33);
+  }
+  .flex-container{
+      display: flex;
+      margin-bottom: 100px;
+      justify-content: center;
+      align-items: center;
+  }
+  .top-container{
+      width: 45%;
+      margin-left: 5px;
+      align-items: center;
+  }
+  .top-container img{
+      width: 70%;
   }
