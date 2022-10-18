@@ -62,8 +62,27 @@ body {
       padding: 10px;
       border-radius: 10px;
       text-align: center;
-      box-shadow: 10px 10px 40px rgb(148, 143, 134);
+      box-shadow: 10px 10px 30px rgb(148, 143, 134);
   }
   .service img{
       width: 100px;
+  }
+  #service1{
+      background-color: rgb(75, 116, 116);
+  }
+  #service2{
+      background-color: rgb(100, 120, 80);
+  }
+  #service3{
+      background-color: rgb(62, 73, 107);
+  }
+
+  #service1:hover{
+      background-color: rgb(66, 137, 137);
+  }
+  #service2:hover{
+      background-color: rgb(127, 155, 81);
+  }
+  #service3:hover{
+      background-color: rgb(64, 83, 141);
   }
