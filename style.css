@@ -45,3 +45,25 @@ body {
   .top-container img{
       width: 70%;
   }
+  #service-section{
+      text-align: center;
+      font-size: 30px;
+      font-weight: 700;
+  }
+  .service-container{
+      display: flex;
+      margin-bottom: 100px;
+  }
+  .service{
+      width: 30%;
+      height: 30%;
+      margin-left: 5%;
+      margin-right: 5%;
+      padding: 10px;
+      border-radius: 10px;
+      text-align: center;
+      box-shadow: 10px 10px 40px rgb(148, 143, 134);
+  }
+  .service img{
+      width: 100px;
+  }
